@@ -1,0 +1,8 @@
+.problems__cards{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 920px;
+  padding: 0;
+  margin: 259px 0 0 23px;
+}

@@ -1,0 +1,19 @@
+.header__button{
+  width: 206px;
+  height: 48px;
+  cursor: pointer;
+  border: 2px solid #333333;
+  border-radius: 5px;
+  background: none;
+  font-style: normal;
+  font-weight: bold;
+  color: #333333;
+}
+
+.header__button:focus{
+  outline: none;
+}
+
+.header__button:active{
+  outline: none;
+}

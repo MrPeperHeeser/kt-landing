@@ -1,0 +1,11 @@
+.header__bottom{
+  margin-top: 33px;
+  width: 100%;
+  height: 737px;
+  background-image: url("../../../images/header/header-background.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}

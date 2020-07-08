@@ -1,0 +1,18 @@
+@import url(./__description/problems__description.css);
+@import url(__description-title/problems__description-title.css);
+@import url(__description-subtitle/problems__description-subtitle.css);
+@import url(./__description-box/problems__description-box.css);
+@import url(./__cards/problems__cards.css);
+@import url(./__cards-item/problems__cards-item.css);
+@import url(./__cards-image/problems__cards-image.css);
+@import url(./__cards-title/problems__cards-title.css);
+@import url(./__cards-description/problems__cards-description.css);
+
+
+.problems {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 70px;
+  justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.problems__cards-item {
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  color: black;
+  margin-right: 100px;
+  list-style-type: none;
+}
+
+.problems__cards-item:nth-of-type(3) {
+  margin-right: 0;
+}
+

@@ -1,0 +1,22 @@
+.header__about-button{
+  width: 355px;
+  height: 72px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #3454F5;
+  font-style: normal;
+  font-weight: bold;
+  color: #333333;
+  margin-top: 46px;
+  margin-left: 197px;
+}
+
+.header__about-button:focus{
+  outline: none;
+}
+
+.header__about-button:active{
+  outline: none;
+}
+

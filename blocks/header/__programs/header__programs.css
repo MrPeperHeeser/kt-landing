@@ -1,0 +1,8 @@
+.header__programs {
+  width: 864px;
+  height: 750px;
+  background-image: url("../../../images/header/background-item.png");
+  order: 2;
+  position: absolute;
+  right: 0;
+}
