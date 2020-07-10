@@ -1,0 +1,10 @@
+.dev-only__list-services-item{
+  height: 24px;
+  background-color: #FFFFFF;
+  padding: 4px 8px 4px 8px;
+  display: flex;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 8px 8px 0;
+}

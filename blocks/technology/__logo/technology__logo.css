@@ -1,0 +1,20 @@
+.technology__logo{
+  width: 380px;
+  height: 88px;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.technology__logo:last-of-type{
+  margin-right: 0;
+}
+
+.technology__logo:hover {
+  opacity: 0.5;
+  transition: opacity .15s ease-in-out;
+  -webkit-transition: opacity .15s ease-in-out;
+  -moz-transition: opacity .15s ease-in-out;
+  -ms-transition: opacity .15s ease-in-out;
+  -o-transition: opacity .15s ease-in-out;
+}
+

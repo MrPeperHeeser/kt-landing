@@ -1,0 +1,9 @@
+.cases__betterment-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

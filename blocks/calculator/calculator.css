@@ -1,0 +1,28 @@
+@import url(./__title/calculator__title.css);
+@import url(./__price/calculator__price.css);
+@import url(./__form/calculator__form.css);
+@import url(./__data/calculator__data.css);
+@import url(./__description/calculator__description.css);
+@import url(./__numeral/calculator__numeral.css);
+@import url(./__order-form/calculator__order-form.css);
+@import url(./__order-form-input/calculator__order-form-input.css);
+@import url(./__order-form-btn/calculator__order-form-btn.css);
+@import url(./__content/calculator__content.css);
+
+
+
+.calculator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #3454F5;
+  min-width: 100vmax;
+  height: 459px;
+}
+
+@media screen and (max-width: 1582px){
+  .calculator {
+    min-width: 100%;
+  }
+}

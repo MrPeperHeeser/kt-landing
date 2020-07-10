@@ -1,0 +1,7 @@
+.calculator__order-form{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: auto;
+  height: 73px;
+}

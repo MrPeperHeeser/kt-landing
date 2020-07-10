@@ -9,7 +9,13 @@
   align-items: center;
   flex-direction: column;
   background-color: #3454F5;
-  width: 100%;
+  min-width: 100vmax;
   height: 915px;
   z-index: -1;
+}
+
+@media screen and (max-width: 1582px){
+  .development {
+    min-width: 100%;
+  }
 }

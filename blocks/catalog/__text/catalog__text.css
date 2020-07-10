@@ -1,0 +1,7 @@
+.catalog__text {
+  display: flex;
+  flex-direction: column;
+  width: 479px;
+  margin-left: 81px;
+  justify-content: center;
+}

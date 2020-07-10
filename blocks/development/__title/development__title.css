@@ -1,5 +1,4 @@
 .development__title{
-  position: absolute;
   width: 750px;
   height: 144px;
   font-style: normal;
@@ -9,5 +8,4 @@
   text-align: center;
   color: #FFFFFF;
   margin-top: 61px;
-  margin-left: 585px;
 }

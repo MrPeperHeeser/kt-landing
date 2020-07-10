@@ -1,0 +1,10 @@
+.dev-only__list-services-link{
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0;
+  color: #333333;;
+}
+
+.dev-only__list-services-link:active{
+  color: #333333;;
+}

@@ -1,0 +1,24 @@
+.calculator__order-form-btn{
+  width: 393px;
+  height: 72px;
+  cursor: pointer;
+  background-color: #FFE818;
+  border: none;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: bold;
+  color: #333333;
+}
+
+.calculator__order-form-btn:focus{
+  outline: none;
+}
+
+.calculator__order-form-btn:active{
+  outline: none;
+}
+
+.calculator__order-form-btn:hover{
+  opacity: 0.8;
+}
+

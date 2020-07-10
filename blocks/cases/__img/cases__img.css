@@ -1,0 +1,14 @@
+.cases__img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -2;
+  object-fit: cover;
+  display: block;
+  width: 680px;
+  height: 400px;
+  margin-bottom: 40px;
+  border-radius: 15px;
+}

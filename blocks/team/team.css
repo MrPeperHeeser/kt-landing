@@ -1,0 +1,18 @@
+@import url(./__title/team__title.css);
+@import url(./__img/team__img.css);
+@import url(./__description/team__description.css);
+@import url(./__description-subtitle/team__description-subtitle.css);
+@import url(./__img-senior/team__img-senior.css);
+@import url(./__description-subtitle-senior/team__description-subtitle-senior.css);
+
+
+.team{
+  margin-top: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 1583px;
+  width: 80%;
+  height: auto;
+}

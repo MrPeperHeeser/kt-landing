@@ -1,0 +1,9 @@
+.catalog__order-form{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  margin-left: 521px;
+  margin-top: 50px;
+}

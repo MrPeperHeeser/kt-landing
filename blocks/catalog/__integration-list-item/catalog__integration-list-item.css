@@ -1,0 +1,19 @@
+.catalog__integration-list-item {
+  color: #214133;
+  margin-bottom: 10px;
+}
+
+.catalog__integration-list-item:before {
+  content: " + ";
+  color: #3454F5;
+}
+
+.catalog__integration-list-item:last-of-type:before {
+  content: " - ";
+  color: #E46868;
+}
+
+.catalog__integration-list-item:last-of-type {
+  color: #E46868;
+  margin-right: 14px;
+}

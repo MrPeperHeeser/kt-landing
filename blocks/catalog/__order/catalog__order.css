@@ -1,0 +1,10 @@
+.catalog__order{
+  margin-top: 100px;
+  width: 1180px;
+  height: 495px;
+  background: #EFF7FF url("../../../images/catalog/catalog__order.png") no-repeat left bottom;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  position: relative;
+}

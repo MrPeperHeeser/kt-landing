@@ -1,5 +1,19 @@
-
-
+@import url(./__content/footer__content.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__columns/footer__columns.css);
+@import url(./__columns-list/footer__columns-list.css);
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #2E3646;
+  min-width: 100vmax;
+  height: 459px;
+}
 
+@media screen and (max-width: 1582px){
+  .footer {
+    min-width: 100%;
+  }
 }

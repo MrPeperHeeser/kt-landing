@@ -1,0 +1,10 @@
+.cases__list{
+  margin-top: 50px;
+  width: 1176px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 0;
+}

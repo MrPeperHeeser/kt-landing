@@ -3,8 +3,14 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/content/content.css);
+@import url(../blocks/about/about.css);
 @import url(../blocks/problems/problems.css);
 @import url(../blocks/development/development.css);
+@import url(../blocks/catalog/catalog.css);
+@import url(../blocks/technology/technology.css);
+@import url(../blocks/cases/cases.css);
+@import url(../blocks/calculator/calculator.css);
+@import url(../blocks/team/team.css);
+@import url(../blocks/dev-only/dev-only.css);
 @import url(../blocks/footer/footer.css);
-
 

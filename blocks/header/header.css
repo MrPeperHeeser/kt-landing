@@ -1,21 +1,13 @@
-@import url(./__top/header__top.css);
 @import url(./__logo/header__logo.css);
 @import url(./__menu/header__menu.css);
 @import url(./__menu-item/header__menu-item.css);
 @import url(./__button/header__button.css);
-@import url(./__bottom/header__bottom.css);
-@import url(./__programs/header__programs.css);
-@import url(./__about/header__about.css);
-@import url(./__title/header__title.css);
-@import url(./__subtitle/header__subtitle.css);
-@import url(__about-button/header__about-button.css);
 
 .header {
   margin-top: 32px;
-  width: 80%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
-
+  width: 1583px;
 }

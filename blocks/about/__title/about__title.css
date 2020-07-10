@@ -1,0 +1,11 @@
+.about__title {
+  width: 600px;
+  height: auto;
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+  font-size: 64px;
+  line-height: 72px;
+  color: #333333;
+  margin: 0;
+}

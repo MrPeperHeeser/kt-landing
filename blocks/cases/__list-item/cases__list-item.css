@@ -1,0 +1,12 @@
+.cases__list-item {
+  width: 100%;
+  height: 400px;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.cases__list-item:last-of-type {
+  margin-bottom: 0;
+}

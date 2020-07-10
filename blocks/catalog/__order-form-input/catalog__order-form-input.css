@@ -1,0 +1,13 @@
+.catalog__order-form-input{
+  width: 262px;
+  height: 72px;
+  border: none;
+  background: #FFFFFF;
+  border-radius: 5px;
+  padding: 0 0 0 25px;
+}
+
+.catalog__order-form-input:focus{
+  outline: none;
+}
+

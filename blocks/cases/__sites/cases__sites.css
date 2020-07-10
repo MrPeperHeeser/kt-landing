@@ -1,0 +1,32 @@
+.cases__sites {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+  width: 680px;
+  height: 400px;
+  text-decoration: none;
+  border-radius: 20px;
+}
+
+.cases__sites:before {
+  content: '';
+  text-align: center;
+  color: #FFFFFF;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 680px;
+  height: 400px;
+  background: rgba(52, 84, 245, 1) url("../../../images/cases/arrow.svg") no-repeat center;
+  opacity: 0;
+  z-index: -1;
+  transition: opacity 200ms ease-in-out;
+  border-radius: 20px;
+}
+
+.cases__sites:hover:before {
+  opacity: 0.9;
+}

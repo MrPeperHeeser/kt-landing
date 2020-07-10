@@ -1,0 +1,28 @@
+@import url(./__title/catalog__title.css);
+@import url(./__grid/catalog__grid.css);
+@import url(./__order/catalog__order.css);
+@import url(./__item/catalog__item.css);
+@import url(./__item-title/catalog__item-title.css);
+@import url(./__item-image/catalog__item-image.css);
+@import url(./__item-paragraph/catalog__item-paragraph.css);
+@import url(./__text/catalog__text.css);
+@import url(__integration-list/catalog__integration-list.css);
+@import url(__integration-list-item/catalog__integration-list-item.css);
+@import url(./__order-title/catalog__order-title.css);
+@import url(./__order-subtitle/catalog__order-subtitle.css);
+@import url(./__order-form/catalog__order-form.css);
+@import url(./__order-form-input/catalog__order-form-input.css);
+@import url(./__order-form-btn/catalog__order-form-btn.css);
+@import url(./__order-form-text/catalog__order-form-text.css);
+
+
+
+.catalog{
+  margin-top: 140px;
+  margin-bottom: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1180px;
+  width: 80%;
+}

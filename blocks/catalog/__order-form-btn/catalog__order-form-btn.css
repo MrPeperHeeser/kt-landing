@@ -1,0 +1,24 @@
+.catalog__order-form-btn{
+  width: 287px;
+  height: 72px;
+  cursor: pointer;
+  background-color: #3454F5;
+  border: none;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin-top: 20px;
+}
+
+.catalog__order-form-btn:focus{
+  outline: none;
+}
+
+.catalog__order-form-btn:active{
+  outline: none;
+}
+
+.catalog__order-form-btn:hover{
+  opacity: 0.8;
+}

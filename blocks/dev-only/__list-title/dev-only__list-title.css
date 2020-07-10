@@ -1,0 +1,9 @@
+.dev-only__list-title{
+  margin: 40px 0 0 40px;
+  width: 228px;
+  height: 28px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #333333;
+}

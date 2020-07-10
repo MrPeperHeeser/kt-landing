@@ -1,0 +1,22 @@
+@import url(./__title/cases__title.css);
+@import url(./__list/cases__list.css);
+@import url(./__list-item/cases__list-item.css);
+@import url(./__img/cases__img.css);
+@import url(./__sites/cases__sites.css);
+@import url(./__betterment/cases__betterment.css);
+@import url(./__betterment-title/cases__betterment-title.css);
+@import url(./__betterment-item/cases__betterment-item.css);
+@import url(./__betterment-logo/cases__betterment-logo.css);
+@import url(./__betterment-statistics/cases__betterment-statistics.css);
+@import url(./__betterment-list/cases__betterment-list.css);
+
+.cases{
+  margin-top: 140px;
+  margin-bottom: 120px;
+  max-width: 1583px;
+  width: 80%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

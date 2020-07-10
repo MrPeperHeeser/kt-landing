@@ -1,0 +1,15 @@
+.cases__betterment-statistics{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 17px 0 0;
+  padding: 0;
+  min-width: 96px;
+  height: 56px;
+  background-color: #EFF7FF;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #3454F5;
+  border-radius: 5px;
+}

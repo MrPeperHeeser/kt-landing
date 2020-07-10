@@ -1,0 +1,8 @@
+.cases__betterment {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 410px;
+  padding: 0;
+  margin-left: 50px;
+}

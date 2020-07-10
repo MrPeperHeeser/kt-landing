@@ -1,0 +1,25 @@
+@import url(./__title/dev-only__title.css);
+@import url(./__subtitle/dev-only__subtitle.css);
+@import url(./__list/dev-only__list.css);
+@import url(./__list-item/dev-only__list-item.css);
+@import url(./__list-services/dev-only__list-services.css);
+@import url(./__list_background-web/dev-only__list_background-web.css);
+@import url(./__list_background-graphic/dev-only__list_background-graphic.css);
+@import url(./__list_background-dop/dev-only__list_background-dop.css);
+@import url(./__list-title/dev-only__list-title.css);
+@import url(./__list-services-item/dev-only__list-services-item.css);
+@import url(./__list-services-link/dev-only__list-services-link.css);
+@import url(./__list-arrow-link/dev-only__list-arrow-link.css);
+
+
+.dev-only{
+  margin-top: 140px;
+  margin-bottom: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 1583px;
+  width: 80%;
+  height: auto;
+}

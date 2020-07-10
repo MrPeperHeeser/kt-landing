@@ -1,0 +1,20 @@
+@import url(./__title/technology__title.css);
+@import url(./__logo-zon/technology__logo-zon.css);
+@import url(./__logo/technology__logo.css);
+@import url(__content/technology__content.css);
+
+.technology{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  background-color: #EFF7FF;
+  min-width: 100vmax;
+  height: 346px;
+}
+
+@media screen and (max-width: 1582px){
+  .technology {
+    min-width: 100%;
+  }
+}

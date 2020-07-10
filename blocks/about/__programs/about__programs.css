@@ -1,0 +1,7 @@
+.about__programs {
+  position: absolute;
+  right: 0;
+  width: 900px;
+  height: 751px;
+  object-fit: cover;
+}
