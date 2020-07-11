@@ -10,8 +10,7 @@
 
 
 .problems {
-  max-width: 1583px;
-  width: 80%;
+  width: 1583px;
   display: flex;
   flex-direction: row;
   margin-top: 70px;
