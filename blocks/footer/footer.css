@@ -18,12 +18,6 @@
   align-items: center;
   flex-direction: column;
   background-color: #2E3646;
-  min-width: 100vmax;
+  width: 100%;
   height: 459px;
-}
-
-@media screen and (max-width: 1582px){
-  .footer {
-    min-width: 100%;
-  }
 }

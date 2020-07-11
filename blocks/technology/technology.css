@@ -9,12 +9,6 @@
   align-items: center;
   margin: 0;
   background-color: #EFF7FF;
-  min-width: 100vmax;
+  width: 100%;
   height: 346px;
-}
-
-@media screen and (max-width: 1582px){
-  .technology {
-    min-width: 100%;
-  }
 }
