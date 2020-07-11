@@ -1,5 +1,6 @@
-.footer__content{
-  width: 1116px;
+.footer__content {
+  max-width: 1583px;
+  width: auto;
   height: auto;
   display: flex;
   flex-direction: column;

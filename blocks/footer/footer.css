@@ -2,6 +2,16 @@
 @import url(./__logo/footer__logo.css);
 @import url(./__columns/footer__columns.css);
 @import url(./__columns-list/footer__columns-list.css);
+@import url(./__columns-heading/footer__columns-heading.css);
+@import url(./__columns-list-link/footer__columns-list-link.css);
+@import url(./__columns-list-item/footer__columns-list-item.css);
+@import url(./__columns-list-item/_direction_row/footer__columns-list-item_direction_row.css);
+@import url(./__column/footer__column.css);
+@import url(./__columns-places/footer__columns-places.css);
+@import url(./__contact-icon/footer__contact-icon.css);
+@import url(./__columns-list/_direction_row/footer__columns-list_direction_row.css);
+@import url(./__social-icon/footer__social-icon.css);
+
 .footer {
   display: flex;
   justify-content: center;

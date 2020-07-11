@@ -1,0 +1,4 @@
+.footer__columns-list_direction_row{
+  display: flex;
+  flex-direction: row;
+}

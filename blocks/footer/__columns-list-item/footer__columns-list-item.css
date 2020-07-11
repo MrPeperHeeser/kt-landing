@@ -1,0 +1,10 @@
+.footer__columns-list-item {
+  margin: 0 0 12px 0;
+  color: white;
+}
+
+.footer__columns-list-item:last-of-type {
+  margin: 0;
+}
+
+

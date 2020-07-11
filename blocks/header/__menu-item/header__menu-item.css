@@ -12,4 +12,9 @@
 
 .header__menu-item:hover{
   opacity: 0.8;
+  transition: opacity .15s ease-in-out;
+  -webkit-transition: opacity .15s ease-in-out;
+  -moz-transition: opacity .15s ease-in-out;
+  -ms-transition: opacity .15s ease-in-out;
+  -o-transition: opacity .15s ease-in-out;
 }

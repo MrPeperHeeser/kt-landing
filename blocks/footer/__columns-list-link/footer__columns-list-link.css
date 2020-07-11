@@ -1,17 +1,15 @@
-.technology__logo{
-  width: 380px;
-  height: 88px;
-  list-style-type: none;
-  margin-right: 20px;
+.footer__columns-list-link{
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0;
+  color: #FFFFFF;
 }
 
-.technology__logo:last-of-type{
-  margin-right: 0;
+.footer__columns-list-link:active{
+  color: #FFFFFF;
 }
-
-
-.technology__logo:hover {
-  opacity: 0.5;
+.footer__columns-list-link:hover {
+  opacity: 0.6;
   transition: opacity .15s ease-in-out;
   -webkit-transition: opacity .15s ease-in-out;
   -moz-transition: opacity .15s ease-in-out;
